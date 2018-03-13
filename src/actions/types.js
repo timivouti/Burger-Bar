@@ -1,0 +1,10 @@
+export const EMAIL_CHANGED = 'email_changed';
+export const PASSWORD_CHANGED = 'password_changed';
+export const LOGIN_USER_SUCCESS = 'login_user_success';
+export const LOGIN_USER_FAIL = 'login_user_fail';
+export const LOGIN_USER = 'login_user';
+export const PRODUCT_CHOOSED = 'product_choosed';
+export const PRODUCT_UPDATE = 'product_update';
+export const PRICEITEM_UPDATE = 'priceitem_update';
+export const PRODUCT_ADD = 'product_add';
+export const DETAIL_CHANGE = 'detail_change';
